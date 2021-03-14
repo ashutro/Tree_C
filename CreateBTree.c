@@ -42,6 +42,7 @@ int main()
     node *root;
     node *tmp;
     root  = NULL;
+    // inserting with random input
     insert(&root,9);
     insert(&root,4);
     insert(&root,15);
