@@ -50,7 +50,7 @@ int main()
     insert(&root,12);
     insert(&root,17);
     insert(&root,2);
-    printf("Display\n");
+    printf("Display Inorder\n");
     DisplayInorder(root);
     return 0;
 
